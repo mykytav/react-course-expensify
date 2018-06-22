@@ -13,8 +13,6 @@ firebase.initializeApp(config);
 
 const database = firebase.database();
 
-console.log('API_KEY', process.env.API_KEY);
-
 export { firebase, database as default };
 
 //--------------------------------------------------------------------//
