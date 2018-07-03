@@ -1,3 +1,3 @@
 # Git commadns
 
-Live: mvlasov-expensify.herokuapp.com
+Live: https://mvlasov-expensify.herokuapp.com/
